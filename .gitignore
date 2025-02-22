@@ -176,3 +176,6 @@ cython_debug/
 # Data & Cache files
 data/
 .cache/
+
+# NordVPN servers
+.nordvpn_servers
